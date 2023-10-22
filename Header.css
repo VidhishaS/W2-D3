@@ -1,0 +1,15 @@
+#box {
+ border: 5px solid rgb(16, 113, 54);
+ width: 500px;
+ margin-right: auto;
+ margin-left: auto;
+ padding: 5px;
+ background-color: rgb(99, 227, 159);
+}
+#image {
+    width:250px;
+    margin-left: 93px;
+    margin-right: auto;
+    
+    
+}
